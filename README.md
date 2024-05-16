@@ -2,7 +2,9 @@
 
 This project uses Quarkus, the Supersonic Subatomic Java Framework and it is a result from [udemy course](https://www.udemy.com/course/aprenda-quarkus-e-desenvolva-apis-restful-poderosas-em-java/?couponCode=LEADERSALE24A).
 
-If you want to learn more about Quarkus, please visit its website: https://quarkus.io/ .
+If you want to learn more about Quarkus, please visit its website: https://quarkus.io/.
+
+Link to the video with the application demonstration: https://youtu.be/hw22KtpEEgU.
 
 ## Running the application in dev mode
 
