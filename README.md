@@ -1,6 +1,6 @@
 # quarkus-social Project
 
-This project uses Quarkus, the Supersonic Subatomic Java Framework.
+This project uses Quarkus, the Supersonic Subatomic Java Framework and it is a result from [udemy course](https://www.udemy.com/course/aprenda-quarkus-e-desenvolva-apis-restful-poderosas-em-java/?couponCode=LEADERSALE24A).
 
 If you want to learn more about Quarkus, please visit its website: https://quarkus.io/ .
 
